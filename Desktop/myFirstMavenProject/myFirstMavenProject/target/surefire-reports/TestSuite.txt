@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.485 s <<< FAILURE! - in TestSuite
+maven.example.addComputer.AddComputerTest.addNewComputer  Time elapsed: 11.703 s  <<< FAILURE!
+java.lang.AssertionError: computer not found did not expect to find [true] but found [false]
+	at maven.example.addComputer.AddComputerTest.addNewComputer(AddComputerTest.java:38)
+

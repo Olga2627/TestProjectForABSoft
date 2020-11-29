@@ -1,0 +1,7 @@
+utils/Waiters.class
+maven/pages/BasePage.class
+maven/pages/computerDatabase/Main_page.class
+maven/pages/computerDatabase/Search_page.class
+utils/BrowserFactory.class
+maven/pages/computerDatabase/Add_computer_page.class
+utils/BrowserFactory$1.class
